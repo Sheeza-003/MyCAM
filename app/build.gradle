@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId "com.sheez.admin.mycam"
         minSdkVersion 9
-        targetSdkVersion 19
+        targetSdkVersion 25
 
         versionCode 2
         versionName "1.0"
